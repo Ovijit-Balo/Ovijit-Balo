@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ovijit-Balo
 - 👀 I’m interested in SoftWare Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
